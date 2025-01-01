@@ -1,0 +1,12 @@
+Algorithm InsertionSort
+VAR
+i,n:INTEGER;
+T : ARRAY_OF INTEGER[n];
+
+FOR i FROM 0 TO n-1 STEP 1  DO
+    k:=T[i];
+    WHILE () DO
+        
+    END_WHILE
+    Write(T);
+END_FOR
